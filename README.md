@@ -1,3 +1,5 @@
 # power-BI
 
 # REAL ESTATE PROPERTY MANAGEMENT DASHBOARD 
+
+![Uploading Screenshot 2025-05-25 001515.png…]()
